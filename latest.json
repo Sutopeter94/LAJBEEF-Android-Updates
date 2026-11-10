@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.0-beta.2",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-4.apk",
-  "sha256": "d6760b0a4511ba6cf5f97e531e93ac2ad2f16a83021cab32dce44d4fd55937d6",
-  "notes": "LAJ BEEF Android – hibajavítások és fejlesztések"
+  "versionCode": 5,
+  "versionName": "1.1.0-beta.3",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-5.apk",
+  "sha256": "522b0713bf815610c6d1bd7d4f8852d6997917f443fa354c4034830263b8a0ba",
+  "notes": "Automatikus frissítés próba: 1.1.0-beta.3. A NAS rendszerén nincs változás."
 }
