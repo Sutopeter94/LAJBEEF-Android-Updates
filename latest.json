@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.0-beta.6",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-8.apk",
-  "sha256": "68afdba109738e9a9e500e12759b6717c27d8c4dccd867fbff099f3f38961458",
-  "notes": "Android mobilfelület javítás: előrendelések, leltár, sötét-arany dialógusok, adminmenü és egyszerűsített frissítés."
+  "versionCode": 9,
+  "versionName": "1.1.0-beta.7",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-9.apk",
+  "sha256": "4cef46ba14491191aa5dccc20aaeefee7de9064878a8684cecdde6ef9fabc737",
+  "notes": "Frissítés egyetlen gombbal: ellenőrzött APK automatikus letöltése és Android rendszertelepítő közvetlen megnyitása, fájlkezelő nélkül."
 }
