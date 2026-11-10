@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.0-beta.7",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-9.apk",
-  "sha256": "4cef46ba14491191aa5dccc20aaeefee7de9064878a8684cecdde6ef9fabc737",
-  "notes": "Frissítés egyetlen gombbal: ellenőrzött APK automatikus letöltése és Android rendszertelepítő közvetlen megnyitása, fájlkezelő nélkül."
+  "versionCode": 10,
+  "versionName": "1.1.0-beta.8",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-10.apk",
+  "sha256": "4b0a2dccf1d91286814396663d7b041423c94982ffef6a8f949843481cfd23c9",
+  "notes": "Javított LAJ BEEF arany emblémás alkalmazásikon: adaptív, kerek és normál Android indítóikon."
 }
