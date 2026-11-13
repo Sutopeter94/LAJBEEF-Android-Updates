@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.0-beta.11",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-13.apk",
-  "sha256": "fd7b426b185343170e4e16918094ee3c35dc10cb87ef195f99811f4f5105be7a",
-  "notes": "Előrendelés fekete képernyő javítása: nincs eltüntetett webes tartalom, és elérhető a teljes vágási előrendelés menü."
+  "versionCode": 14,
+  "versionName": "1.1.0-beta.12",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-14.apk",
+  "sha256": "82f218391dc5cbabd76c81de22856e864270df04a60e9c120b532f69dd888bb2",
+  "notes": "Kizárólag gyors adatnézés és előrendelés felvétele: nincs teljes készletkezelő menü a telefonon. Ha az űrlap nem található, egyértelmű üzenet jelenik meg."
 }
