@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.0-beta.14",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-16.apk",
-  "sha256": "1fe3513b15868e964d013e1eca4188e4aa9ab667b530a08a3be734f7704e74c2",
-  "notes": "Készlet és előrendelés: nem jelenik meg a teljes webes menü, az előrendelés a vgFlowPanel és __NEXT__ munkafolyamathoz igazodik."
+  "versionCode": 17,
+  "versionName": "1.1.0-beta.15",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-17.apk",
+  "sha256": "5b0626cb72d02c02a5204cdf54c4c74357a665a12ace9511c6dfa2b01351c0d0",
+  "notes": "A NAS tényleges forrásához igazított kétfunkciós mobilalkalmazás: készlet megtekintése és az Új rendelés belső fülén előrendelés felvétele. Adminmenü nem látható."
 }
