@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.0-beta.13",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-15.apk",
-  "sha256": "ce4d656fe7e9da13957ed3814309ced639557ad2d752a04f4bb46b220463960e",
-  "notes": "Kétmenüs Android adatnéző az új weboldalhoz: Készlet (keresés, megtekintés) és Előrendelés felvétele. Nincsenek további üzleti menüpontok."
+  "versionCode": 16,
+  "versionName": "1.1.0-beta.14",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-16.apk",
+  "sha256": "1fe3513b15868e964d013e1eca4188e4aa9ab667b530a08a3be734f7704e74c2",
+  "notes": "Készlet és előrendelés: nem jelenik meg a teljes webes menü, az előrendelés a vgFlowPanel és __NEXT__ munkafolyamathoz igazodik."
 }
