@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.0-beta.15",
-  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-17.apk",
-  "sha256": "5b0626cb72d02c02a5204cdf54c4c74357a665a12ace9511c6dfa2b01351c0d0",
-  "notes": "A NAS tényleges forrásához igazított kétfunkciós mobilalkalmazás: készlet megtekintése és az Új rendelés belső fülén előrendelés felvétele. Adminmenü nem látható."
+  "versionCode": 18,
+  "versionName": "1.1.0-beta.16",
+  "apkUrl": "https://raw.githubusercontent.com/Sutopeter94/LAJBEEF-Android-Updates/main/LAJBEEF-18.apk",
+  "sha256": "3b9fa8ae6670513cac738e1ccf3747fc919819d3528909368eae8282c9b581a9",
+  "notes": "Valódi kétképernyős mobilnézet: külön Készlet és Előrendelés, az eredeti adatkezeléssel. A webes adminfelület nem jelenik meg."
 }
